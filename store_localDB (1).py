@@ -8,7 +8,7 @@ from langchain.text_splitter import SentenceTransformersTokenTextSplitter
 from langchain.vectorstores import Chroma
 
 
-OPENAI_API_KEY = "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"  # to access your openai account
+OPENAI_API_KEY = "" # to access your openai account
 
 
 # input folder address for where you place all your documents
